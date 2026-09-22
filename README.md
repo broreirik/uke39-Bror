@@ -1,4 +1,3 @@
-# uke38-Bror
 
 # uke39-Bror
 
