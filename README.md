@@ -1,4 +1,3 @@
-
 # uke39-Bror
 
 # Hva har jeg gjort i dette prosjektet?
