@@ -11,9 +11,3 @@
 - Jeg fikk gjort denne og commitet denne til GitHub. Både script.js og index.html er under denne mappen.
 
 
-# JavaScript Teller
-
-- På telleren så fikk jeg mer problemer med hvordan jeg skulle lage knapp som reagerte osv. 
-
-- Jeg løste dette med å søke litt rundt og til slutt fant jeg ut en enkel måte å gjøre dette med 
-
