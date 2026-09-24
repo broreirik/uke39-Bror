@@ -2,7 +2,7 @@ console.log("Dette er en enkel teller");
 
 let teller = 0;
 
-function skrivUt() {
+function øk() {
     teller++;
     console.log("+1"); 
 }
